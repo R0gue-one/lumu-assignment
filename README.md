@@ -8,5 +8,9 @@ Download the extension (crx file) from [here](https://drive.google.com/file/d/1M
   https://www2.hm.com/en_in/men/shop-by-product/view-all.html
   ```
 - Open any product page and click on the extension
-  ![image](https://github.com/user-attachments/assets/d056c93f-7238-4669-a676-1f863f46e804)
+- Scroll down and click the search similar products button. This will give you list of similar products
+
+## Video Demo
+
+
 
