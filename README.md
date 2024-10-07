@@ -20,7 +20,10 @@ https://github.com/user-attachments/assets/08d1ff13-8473-4009-8e67-ae5811bfadb5
 
 ![image](https://github.com/user-attachments/assets/c1577a48-89a1-4b56-9e1a-7f12942642f7)
 
-![image](https://github.com/user-attachments/assets/a068023a-9726-443b-92a6-8d5c9fd0b9dc)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/9324d9bf-ac0b-418d-901b-0f30d88d9be7" width="48%">
+  <img src="https://github.com/user-attachments/assets/88ecfe34-9851-43b9-ac08-2b7aef1b065b" width="48%">
+</div>
 
 
 ## Build yourself
