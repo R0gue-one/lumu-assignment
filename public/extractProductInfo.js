@@ -1,4 +1,3 @@
-// extractImage.js
 
 function extractProductInfo() {
   const productInfo = {

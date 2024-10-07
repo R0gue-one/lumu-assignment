@@ -3,6 +3,8 @@ import './App.css';
 import axios from 'axios';
 
 const App = () => {
+
+  //to store product details
   const [product, setProduct] = useState({
     name: '',
     image: '',
@@ -11,8 +13,8 @@ const App = () => {
 
   const [similarProducts, setSimilarProducts] = useState([]);
   
-  // Replace with your Google API key and Search Engine ID
-  const API_KEY = 'AIzaSyDniPaLzzpiRMWs8tMn0jVQekSvmxbTKMw';
+  
+  const API_KEY = 'ENTER_YOUR_API_KEY';
   const SEARCH_ENGINE_ID = '60b55b45f88534570';
 
   useEffect(() => {
@@ -46,7 +48,7 @@ const App = () => {
     };
   }, []);
 
-  // Function to search for similar products
+  //to fetch search results of custom google-search
   const searchSimilarProducts = async () => {
     console.log("button pressed!");
 
