@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "version": "0.7.1",
+    "name": "Lumu for H&M 2",
+    "icons": {
+        "32": "lumu32.png"
+    },
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": ["activeTab", "scripting", "storage"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+    {
+      "matches": ["*://www2.hm.com/*"],
+      "js": ["extractProductInfo.js"]
+    }
+    ]
+}
